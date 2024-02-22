@@ -1,27 +1,35 @@
 .tit-1 {
     color: darkred;
 }
-.tit-2{ 
+
+.tit-2 {
     color: cadetblue;
 }
-.tit-3{
+
+.tit-3 {
     color: rgb(12, 12, 114);
 }
-.it-1{
+
+.it-1 {
     color: chocolate;
 }
-.it-2{
-        color: #044952;
-    }
-.it-3{
-            color: aquamarine;
-        }
-        .botao-1{ 
-            background-color: rgba(255, 20, 145, 0.26);
-        }
-        .botao-2{
-            background-color: rgba(137, 43, 226, 0.473);
-        }
-        .botao-3{
-            background-color: rgba(127, 255, 212, 0.322);
-        }
+
+.it-2 {
+    color: #044952;
+}
+
+.it-3 {
+    color: rgb(65, 121, 102);
+}
+
+.botao-1 {
+    background-color: rgba(255, 20, 145, 0.26);
+}
+
+.botao-2 {
+    background-color: rgba(137, 43, 226, 0.473);
+}
+
+.botao-3 {
+    background-color: rgba(127, 255, 212, 0.322);
+}
