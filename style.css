@@ -1,35 +1,21 @@
-.tit-1 {
-    color: darkred;
+:root{
+    --cor-de-fundo: #f5f5f5;
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --botao-ativo: #A020F0;
+    --botao-inativo: #FF00FF;
+    --texto-fundo: #87CEFA;
+    --cor-borda: #000000;
 }
 
-.tit-2 {
-    color: cadetblue;
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
 }
 
-.tit-3 {
-    color: rgb(12, 12, 114);
-}
-
-.it-1 {
-    color: chocolate;
-}
-
-.it-2 {
-    color: #044952;
-}
-
-.it-3 {
-    color: rgb(65, 121, 102);
-}
-
-.botao-1 {
-    background-color: rgba(255, 20, 145, 0.26);
-}
-
-.botao-2 {
-    background-color: rgba(137, 43, 226, 0.473);
-}
-
-.botao-3 {
-    background-color: rgba(127, 255, 212, 0.322);
-}
+.titulo
